@@ -29,6 +29,8 @@ Implementación del algoritmo Proximal Policy Optimization (PPO) para la optimiz
 
 <img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/561ae7ce-eccb-4edc-8042-6861e5ac7b9b" />
 
+Se entrenó al agente con datos del 1 de enero del 2000 al 31 de diciembre de 2022, posteriormente se hizo la simulación del 1 de enero del 2023 al 1 de enero del 2025 
+
 ## Tecnologías Utilizadas
 
 - **Reinforcement Learning**: Stable Baselines3 (PPO)
