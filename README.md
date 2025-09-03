@@ -55,6 +55,8 @@ La selección de acciones se realizó considerando noticias recientes y buscando
 | AMZN   | Amazon                  |
 | MSFT   | Microsoft               |
 
+Las acciones se seleccionaron del Nasdaq100 mediante un análisis combinado: se evaluaron las correlaciones entre precios históricos y se aplicó análisis fundamental para identificar oportunidades, considerando factores como proyectos en desarrollo, niveles de deuda y solidez financiera.
+
 ### Composición del Portafolio
 
 <img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/34c2cd1d-f416-42f6-b28e-0e6604168924" />
