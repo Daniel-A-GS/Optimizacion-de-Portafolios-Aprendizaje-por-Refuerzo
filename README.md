@@ -4,7 +4,7 @@
 
 ## Descripción del Proyecto
 
-Implementación del algoritmo Proximal Policy Optimization (PPO) para la optimización de un portafolio financieros, maximizando ganancias mientras se mantiene un perfil de riesgo controlado. El algoritmo aprende a distribuir capital entre 10 acciones del S&P500 de manera óptima.
+Implementación del algoritmo Proximal Policy Optimization (PPO) para la optimización de un portafolio financieros, maximizando ganancias mientras se mantiene un perfil de riesgo controlado. El algoritmo aprende a distribuir capital entre 10 acciones del Nasdaq100 de manera óptima.
 
 ## Resultados Destacados
 
